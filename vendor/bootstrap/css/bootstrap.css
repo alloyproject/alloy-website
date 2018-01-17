@@ -2526,6 +2526,24 @@ fieldset[disabled] a.btn {
   box-shadow: 0 0 0 0.2rem #ffccbc;
 }
 
+.btn-light-header {
+  color: #111;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.btn-light-header:hover {
+  color: #111;
+  background-color: #e2e6ea;
+  border-color: #dae0e5;
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.btn-light-header:focus, .btn-light-header.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
 .btn-light {
   color: #111;
   background-color: #f8f9fa;
