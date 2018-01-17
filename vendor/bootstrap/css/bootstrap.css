@@ -4472,6 +4472,55 @@ tbody.collapse.show {
   background-color: #dc3545;
 }
 
+.badge-coredev {
+  color: #fff;
+  background-color: #e92121;
+}
+
+.badge-devteam {
+  color: #fff;
+  background-color: #2ecc71;
+}
+
+.badge-webdev {
+  color: #fff;
+  background-color: #1abc9c;
+}
+
+
+.badge-discordmanager {
+  color: #fff;
+  background-color: #99aab5;
+}
+
+.badge-communityroadmap {
+  color: #fff;
+  background-color: #e91e63;
+}
+
+.badge-communitydesigner {
+  color: #fff;
+  background-color: #3498db;
+}
+
+.badge-pools {
+  color: #fff;
+  background-color: #f1c40f;
+}
+.badge-poolsdevhelper {
+  color: #fff;
+  background-color: #9abcec;
+}
+
+.badge-communityroadmapmanager {
+  color: #fff;
+  background-color: #9b59b6;
+}
+.badge-blockexplorerdev {
+  color: #fff;
+  background-color: #206694;
+}
+
 .badge-danger[href]:focus, .badge-danger[href]:hover {
   color: #fff;
   text-decoration: none;
@@ -8370,5 +8419,9 @@ a.text-dark:focus, a.text-dark:hover {
 
 .invisible {
   visibility: hidden !important;
+}
+
+.badge-border-none{
+  border-color:#212529;
 }
 /*# sourceMappingURL=bootstrap.css.map */
