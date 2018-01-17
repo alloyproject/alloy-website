@@ -4473,52 +4473,52 @@ tbody.collapse.show {
 }
 
 .badge-coredev {
-  color: #fff;
-  background-color: #e92121;
+  color: #212529;
+  background-color: #ef5350;
 }
 
 .badge-devteam {
-  color: #fff;
-  background-color: #2ecc71;
+  color: #212529;
+  background-color: #66bb6a;
 }
 
 .badge-webdev {
-  color: #fff;
-  background-color: #1abc9c;
+  color: #212529;
+  background-color: #78909c;
 }
 
 
 .badge-discordmanager {
-  color: #fff;
-  background-color: #99aab5;
+  color: #212529;
+  background-color: #b0bec5;
 }
 
 .badge-communityroadmap {
-  color: #fff;
-  background-color: #e91e63;
+  color: #212529;
+  background-color: #26c6da;
 }
 
 .badge-communitydesigner {
-  color: #fff;
-  background-color: #3498db;
+  color: #212529;
+  background-color: #5c6bc0;
 }
 
 .badge-pools {
-  color: #fff;
-  background-color: #f1c40f;
+  color: #212529;
+  background-color: #d4e157;
 }
 .badge-poolsdevhelper {
-  color: #fff;
-  background-color: #9abcec;
+  color: #212529;
+  background-color: #ffee58;
 }
 
 .badge-communityroadmapmanager {
-  color: #fff;
-  background-color: #9b59b6;
+  color: #212529;
+  background-color: #7e57c2;
 }
 .badge-blockexplorerdev {
-  color: #fff;
-  background-color: #206694;
+  color: #212529;
+  background-color: #42a5f5;
 }
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
