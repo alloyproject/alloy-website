@@ -14,10 +14,3 @@ speed: 'medium',
 density: 'high'
 };
 var particleCanvas = new ParticleNetwork(canvasDiv, options);
-$(window).resize(function()
-{
-  if ($(window).width() < 1200) {
-  $( "#normalheader" ).removeClass( "hidenormalheader" );
-  $( "#fxheader" ).remove();
-  }
-}).resize();
