@@ -2495,6 +2495,21 @@ fieldset[disabled] a.btn {
   box-shadow: 0 0 0 0.2rem #ebefc6;
 }
 
+.btn-telegram {
+  color: #fff;
+  background-color: #279FD3;
+  border-color: #fff;
+}
+.btn-telegram:hover {
+  color: #fff;
+  background-color: #218cba;
+  border-color: #fff;
+}
+
+.btn-telegram:focus, .btn-telegram.focus {
+  box-shadow: 0 0 0 0.2rem #c6e6f4;
+}
+
 .btn-discord {
   color: #fff;
   background-color: #7289D9;
