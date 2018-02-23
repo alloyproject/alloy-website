@@ -1,0 +1,29 @@
+Website - http://alloyproject.org
+
+Roadmap - http://alloyproject.org/#roadmap
+
+F.A.Q - http://alloyproject.org/#faq
+
+Team - http://alloyproject.org/#team
+
+GitHub - http://alloyproject.org/github
+
+Wallet - http://alloyproject.org/#wallet
+
+Pools - http://alloyproject.org/pools
+
+Explorer - http://alloyproject.org/explorer
+
+Exchanges - http://alloyproject.org/#exchanges
+
+Discord - http://alloyproject.org/discord
+
+Reddit - http://alloyproject.org/reddit
+
+Twitter - http://alloyproject.org/twitter
+
+Telegram - http://alloyproject.org/telegram
+
+BCT ANN - http://alloyproject.org/bitcointalk
+
+CCT ANN - http://alloyproject.org/cryptocurrencytalk
