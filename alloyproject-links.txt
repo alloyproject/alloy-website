@@ -24,6 +24,8 @@ Twitter - https://alloyproject.org/twitter
 
 Telegram - https://alloyproject.org/telegram
 
+YouTube - https://alloyproject.org/youtube
+
 BCT ANN - https://alloyproject.org/bitcointalk
 
 CCT ANN - https://alloyproject.org/cryptocurrencytalk
